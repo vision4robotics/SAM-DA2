@@ -1,0 +1,85 @@
+absl-py==2.1.0
+Brotli @ file:///croot/brotli-split_1736182456865/work
+causal-conv1d @ file:///mnt/sdc/V4R/YLL/mamba-main/causal_conv1d-1.5.0.post8%2Bcu12torch2.5cxx11abiFALSE-cp39-cp39-linux_x86_64.whl#sha256=8608f4629a1c7f062fb57ade3f42db15423730b0111f34989ec6998ece244d1d
+certifi==2024.8.30
+charset-normalizer==3.4.0
+colorama==0.4.6
+contourpy @ file:///croot/contourpy_1700583582875/work
+cycler==0.12.1
+einops==0.7.0
+filelock==3.16.1
+fonttools==4.54.1
+fsspec==2024.12.0
+fvcore==0.1.5.post20221221
+grpcio==1.67.0
+huggingface-hub==0.29.3
+idna==3.10
+imageio==2.36.0
+importlib_metadata==8.5.0
+importlib_resources==6.4.5
+iopath==0.1.10
+Jinja2==3.1.5
+kiwisolver==1.4.7
+mamba-ssm @ file:///mnt/sdc/V4R/YLL/mamba-main/mamba_ssm-2.2.4%2Bcu12torch2.5cxx11abiFALSE-cp39-cp39-linux_x86_64.whl#sha256=23608f7cca252ac0b9db98e5202a408cf1efd12e9538e2a2ec61fde40f9ce157
+Markdown==3.7
+MarkupSafe==3.0.2
+matplotlib==3.9.2
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath==1.3.0
+natsort==8.4.0
+networkx==3.2.1
+ninja==1.11.1.3
+numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
+nvidia-cublas-cu12==12.4.5.8
+nvidia-cuda-cupti-cu12==12.4.127
+nvidia-cuda-nvrtc-cu12==12.4.127
+nvidia-cuda-runtime-cu12==12.4.127
+nvidia-cudnn-cu12==9.1.0.70
+nvidia-cufft-cu12==11.2.1.3
+nvidia-curand-cu12==10.3.5.147
+nvidia-cusolver-cu12==11.6.1.9
+nvidia-cusparse-cu12==12.3.1.170
+nvidia-nccl-cu12==2.21.5
+nvidia-nvjitlink-cu12==12.4.127
+nvidia-nvtx-cu12==12.4.127
+opencv-python==4.11.0.86
+packaging==24.1
+pillow @ file:///croot/pillow_1734430590456/work
+ply==3.11
+portalocker==3.0.0
+protobuf==5.28.2
+pyparsing==3.2.0
+PyQt5==5.15.10
+PyQt5_sip @ file:///croot/pyqt-split_1736540531116/work/pyqt_sip
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+safetensors==0.4.5
+selective_scan @ file:///mnt/sdc/V4R/YLL/VMamba-main/kernels/selective_scan
+sip @ file:///croot/sip_1736541134699/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.13.1
+tabulate==0.9.0
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorboardX==2.6.2.2
+termcolor==2.5.0
+timm==1.0.15
+tokenizers==0.21.0
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+torch==2.5.1
+torchvision==0.20.1
+tornado @ file:///croot/tornado_1733960490606/work
+tqdm==4.67.1
+transformers==4.47.1
+triton==3.1.0
+typing_extensions==4.12.2
+unicodedata2 @ file:///croot/unicodedata2_1736541023050/work
+urllib3==2.3.0
+via==0.1.2
+Werkzeug==3.0.5
+yacs==0.1.8
+zipp==3.20.2
