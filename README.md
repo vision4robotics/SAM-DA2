@@ -1,7 +1,7 @@
 # SAM-Mamba-DA: SAM-Mamba Domain Adaptation for Nighttime UAV Tracking
 
 
-Liangliang YaoChanghong Fu*, Haobo Zuo,  Yiheng Wang, Geng Lu
+Liangliang Yao, Changhong Fu*, Haobo Zuo,  Yiheng Wang, Geng Lu
 
 * \* Corresponding author. 
 
