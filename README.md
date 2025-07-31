@@ -1,4 +1,4 @@
-# SAM-Mamba-DA: SAM-Mamba Domain Adaptation for Nighttime UAV Tracking
+# SAM-DA++: Augmented SAM-Powered Domain Adaptation for Nighttime UAV Tracking
 
 
 Liangliang Yao, Changhong Fu*, Haobo Zuo,  Yiheng Wang, Geng Lu
